@@ -1,0 +1,11 @@
+# docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll jekyll serve
+
+version: '3'
+services:
+  jekyll-serve:
+    image: jekyll/jekyll
+    volumes:
+      - '.:/srv/jekyll'
+    ports:
+      - 4000:4000
+    command: 'jekyll serve'
