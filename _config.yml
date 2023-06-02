@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: jekyllBear
+title: AS3R Lab
 description: a minimal, text focused blog theme
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
@@ -45,8 +45,8 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
-timezone: America/New_York
+permalink: #/blog/:slug
+timezone: China/Shanghai
 future: false
 
 exclude:
@@ -55,13 +55,17 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
+# Blog: /blog
+
+
 
 # Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
+  #Resume: /assets/resume.pdf
+  Publication: /publication
+  Event: /events
   
 
 # Add links for more focus here
 special_links:
-  "Search": https://duckduckgo.com
+  #"Search": https://duckduckgo.com

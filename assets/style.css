@@ -2,7 +2,7 @@ body {
     font-family: Verdana, sans-serif;
     margin: auto;
     padding: 20px;
-    max-width: 720px;
+    max-width: 1000px;
     text-align: left;
     background-color: #fff;
     word-wrap: break-word;
@@ -48,7 +48,7 @@ a {
 }
 
 .title h1 {
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 .title span {

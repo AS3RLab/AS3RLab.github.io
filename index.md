@@ -1,24 +1,42 @@
 ---
 layout: default
-title: Hello
+title: SIST
 ---
 
+* * *
 
-## An easy to use, minimal, text focused Jekyll theme
+## Yuqi Chen
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+<img align="right" src="./assets/images/yuqi.jpeg" alt="" width="160">
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+Yuqi Chen is an assistant Professor (tenure-track) at School of Information Science and Technology in the ShanghaiTech University. Yuqi completed his Ph.D. in 2019 at the Singapore University of Technology and Design (SUTD) under the supervision of Sun Jun. Besides, he also collaborated closely with Chris Poskitt. From 2019 to 2021, he worked as a Research Scientist in the System Analysis and Verification (SAV) group at Singapore Management University(SMU).
 
-**Stop worrying about the style, focus on your writing.**
+His research interest lies in cyber-physical system security in general. Specifically, he apply techniques like testing, reverse engineering, program analysis, and formal method to secure and analyze CPSs (e.g., autonomous vehicles, industrial control systems, and robotics systems).
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+* * *
+## Contact Information
+Email: chenyq@shanghaitech.edu.cn, phoenixcyq1994@gmail.com
 
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+Tel:
+
+Office:
+
+* * *
+## Teaching
+
+* CS 224: Program Analysis, Spring 2023
+* CS 253: Cyber Security, Fall 2022
+
+* * *
+## Students
+**Master Students**
+
+* Haitao Hu (2022.09-),
+* Guowei Yang (2022.09-), co-supervised with Fu Song
+* Huijia Sun (2022.09-)
+* Qingyuan Hu (2022.09-)
+* Xuenan Zhang (2021.09-), co-supervised with Yutian Tang
+* Mingke Yang (2021.09), co-supervised with Yutian Tang
+
+
+
