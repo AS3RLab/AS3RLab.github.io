@@ -2,8 +2,7 @@
 layout: default
 title: SIST
 ---
-
-* * *
+---
 
 ## Yuqi Chen
 
@@ -13,22 +12,25 @@ Yuqi Chen is an assistant Professor (tenure-track) at School of Information Scie
 
 His research interest lies in cyber-physical system security in general. Specifically, he apply techniques like testing, reverse engineering, program analysis, and formal method to secure and analyze CPSs (e.g., autonomous vehicles, industrial control systems, and robotics systems).
 
-* * *
+---
+
 ## Contact Information
+
 Email: chenyq@shanghaitech.edu.cn, phoenixcyq1994@gmail.com
 
-Tel:
+Office: Room C-503.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Shanghai.
 
-Office:
+---
 
-* * *
 ## Teaching
 
 * CS 224: Program Analysis, Spring 2023
 * CS 253: Cyber Security, Fall 2022
 
-* * *
+---
+
 ## Students
+
 **Master Students**
 
 * Haitao Hu (2022.09-),
@@ -37,6 +39,3 @@ Office:
 * Qingyuan Hu (2022.09-)
 * Xuenan Zhang (2021.09-), co-supervised with Yutian Tang
 * Mingke Yang (2021.09), co-supervised with Yutian Tang
-
-
-
