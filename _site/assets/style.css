@@ -276,8 +276,8 @@ ul.discover-posts li small a {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #01242e;
-        color: #ddd;
+        background-color: #181818;
+        color: #fff;/*#ddd;*/
     }
 
     h1,
