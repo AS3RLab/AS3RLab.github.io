@@ -6,7 +6,7 @@ permalink: /publication
 ---
 
 
-| [**Specification-based Autonomous Driving System Testing**>](https://ieeexplore.ieee.org/abstract/document/10064002) <br> <font size=2>Y Zhou, Y Sun, Y Tang, Y Chen, J Sun, CM Poskitt, Y Liu, Z Yang<br>IEEE Transactions on Software Engineering</font> | 2023       |
+| [**Specification-based Autonomous Driving System Testing**](https://ieeexplore.ieee.org/abstract/document/10064002) <br> <font size=2>Y Zhou, Y Sun, Y Tang, Y Chen, J Sun, CM Poskitt, Y Liu, Z Yang<br>IEEE Transactions on Software Engineering</font> | 2023       |
 |  [**Finding Causally Different Tests for an Industrial Control System**](https://arxiv.org/abs/2302.04175)<br> <font size=2>CM Poskitt, Y Chen, J Sun, Y Jiang<br>arXiv preprint arXiv:2302.04175</font>  |  2023 |
 | [**LawBreaker: An Approach for Specifying Traffic Laws and Fuzzing Autonomous Vehicles**](https://dl.acm.org/doi/abs/10.1145/3551349.3556897)<br><font size=2>Y Sun, CM Poskitt, J Sun, Y Chen, Z Yang<br>37th IEEE/ACM International Conference on Automated Software Engineering, 1-12</font>   |   2022  |
 | [**Defending cyber-physical systems through reverse engineering based memory sanity check**](https://ieeexplore.ieee.org/abstract/document/9864200/)<br><font size=2>Y Geng, Y Chen, R Ma, Q Wei, J Pan, J Wang, P Cheng, Q Wang<br>IEEE Internet of Things Journal</font>   |   2022  |

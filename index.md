@@ -18,7 +18,7 @@ His research interest lies in cyber-physical system security in general. Specifi
 
 Email: chenyq@shanghaitech.edu.cn, phoenixcyq1994@gmail.com
 
-Office: 1
+Office: Room C-503.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Shanghai.
 
 ---
 
