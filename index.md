@@ -12,6 +12,10 @@ Yuqi Chen is an assistant Professor (tenure-track) at School of Information Scie
 
 His research interest lies in cyber-physical system security in general. Specifically, he apply techniques like testing, reverse engineering, program analysis, and formal method to secure and analyze CPSs (e.g., autonomous vehicles, industrial control systems, and robotics systems).
 
+### Recruitment
+
+I am looking for self-motivated PhD/MS students. Several Postdoc and RA positions are available. If you are interested in working with me, please feel free to drop me an email with your CV.
+
 ---
 
 ## Contact Information
@@ -33,7 +37,7 @@ Office: Room C-503.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Sh
 
 **Master Students**
 
-* Haitao Hu (2022.09-),
+* Haitao Hu (2022.09-)
 * Guowei Yang (2022.09-), co-supervised with Fu Song
 * Huijia Sun (2022.09-)
 * Qingyuan Hu (2022.09-)
