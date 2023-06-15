@@ -14,7 +14,7 @@ His research interest lies in cyber-physical system security in general. Specifi
 
 ### Recruitment
 
-I am looking for self-motivated PhD/MS students. Several Postdoc and RA positions are available. If you are interested in working with me, please feel free to drop me an email with your CV.
+I am looking for self-motivated PhD, postdoc, and research assistant to conduct research in areas of software engineering, system security, AI security, and autonomous vehicles.  
 
 ---
 
