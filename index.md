@@ -37,7 +37,7 @@ Office: Room C-503.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Sh
 
 **Master Students**
 
-* Haitao Hu (2022.09-)
+* [Haitao Hu](/pages/haitao_hu) (2022.09-)
 * Guowei Yang (2022.09-), co-supervised with Fu Song
 * Huijia Sun (2022.09-)
 * Qingyuan Hu (2022.09-)

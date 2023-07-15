@@ -52,6 +52,7 @@ future: false
 exclude:
 - README.md
 - LICENSE.md
+- pubs.md
 
 exclude: [vendor]
 
@@ -63,9 +64,13 @@ exclude: [vendor]
 links:
   #Resume: /assets/resume.pdf
   Publication: /publication
+  Members: /members
+  Teaching: /teaching
   Event: /events
+  
   
 
 # Add links for more focus here
 special_links:
   #"Search": https://duckduckgo.com
+  Deadlines: "https://ccfddl.github.io/"
