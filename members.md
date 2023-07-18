@@ -26,7 +26,7 @@ permalink: /members
 * Xuenan Zhang (2021.09-), co-supervised with Yutian Tang
 * Mingke Yang (2021.09), co-supervised with Yutian Tang
 
-### Alumni
+### Undergraduates
 
-* Chennin Huang (2023.07-)
+* Chenning Huang (2023.07-)
 * Zeyu Zhao (2023.07-)
