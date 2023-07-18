@@ -3,6 +3,10 @@ layout: default
 title: SIST
 ---
 ---
+## Advanced System Safety and Security Research Lab
+The Advanced System Safety and Security Research Lab, under the leadership of Professor Chen Yuqi at the School of Information, ShanghaiTech University, is a pioneering laboratory dedicated to advancing research in software engineering and information security. With a primary focus on cutting-edge areas such as autonomous vehicle, cyber-physical system, program analysis, and formal methods, the lab aims to drive innovation and push the boundaries of knowledge in these fields.
+
+---
 
 ## Yuqi Chen
 
@@ -25,7 +29,13 @@ Email: chenyq@shanghaitech.edu.cn, phoenixcyq1994@gmail.com
 Office: Room C-503.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Shanghai.
 
 ---
+## News
 
+#### [Summer School on Type Theory organized by M4p1e!](https://infinity-type-cafe.github.io/ntype-cafe-summer-school/)
+
+
+---
+<!-- 
 ## Teaching
 
 * CS 224: Program Analysis, Spring 2023
@@ -42,4 +52,4 @@ Office: Room C-503.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Sh
 * Huijia Sun (2022.09-)
 * Qingyuan Hu (2022.09-)
 * Xuenan Zhang (2021.09-), co-supervised with Yutian Tang
-* Mingke Yang (2021.09), co-supervised with Yutian Tang
+* Mingke Yang (2021.09), co-supervised with Yutian Tang -->
