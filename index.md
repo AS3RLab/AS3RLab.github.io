@@ -4,7 +4,7 @@ title: SIST
 ---
 ---
 ## Advanced System Safety and Security Research Lab
-The Advanced System Safety and Security Research Lab, under the leadership of Professor Chen Yuqi at the School of Information, ShanghaiTech University, is a pioneering laboratory dedicated to advancing research in software engineering and information security. With a primary focus on cutting-edge areas such as autonomous vehicle, cyber-physical system, program analysis, and formal methods, the lab aims to drive innovation and push the boundaries of knowledge in these fields.
+The Advanced System Safety and Security Research Lab, under the leadership of Prof. Yuqi Chen at the School of Information Science and Technology, ShanghaiTech University, is a pioneering laboratory dedicated to advancing research in software engineering and cyber security. With a primary focus on cutting-edge areas such as autonomous vehicle, cyber-physical system, program analysis, and formal methods, the lab aims to drive innovation and push the boundaries of knowledge in these fields.
 
 ---
 
