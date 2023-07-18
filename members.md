@@ -28,5 +28,5 @@ permalink: /members
 
 ### Alumni
 
-* Chennin Huang (2023.07-)
+* Chenning Huang (2023.07-)
 * Zeyu Zhao (2023.07-)
