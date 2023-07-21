@@ -12,7 +12,7 @@ permalink: /events
     <th>Date</th>
   </tr>
   <tr>
-    <td><a herf="https://infinity-type-cafe.github.io/ntype-cafe-summer-school/">∞-type Café Summer School</a></td>
+    <td><a href="https://infinity-type-cafe.github.io/ntype-cafe-summer-school/">∞-type Café Summer School</a></td>
     <td>Haitao Hu</td>
     <td>2023-7-2</td>
   </tr>
