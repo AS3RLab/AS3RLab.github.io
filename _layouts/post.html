@@ -1,26 +1,16 @@
 ---
-layout: compress
+layout: default
 ---
+<div class="content pa3 ph6-l">
+	<section class="page measure-wide f5 f4-ns lh-copy avenir">
+		<div class="container {% if page.full_width %}max-container{% endif %}">
+			{{ content }}
 
-{% include head.html %}
+			{% if site.data.theme.category_tag_list %}
+      {% include category_tag_list.html %}
+      {% endif %}
 
-<main>
-
-    {% include header.html %}
-
-    
-    <h1>{{ page.title }}</h1>
-    <i>{{ page.date | date: "%b %d, %Y" }}</i>
-    <h4 class="subtitle">{{ page.subtitle }}</h4>
-
-    {{ page.content }}
-
-
-
-</main>
-
-{% include footer-post.html %}
-
-</body>
-
-</html>
+		</div>
+	</section>
+	{% include post_pagination.html %}
+</div>

@@ -1,76 +1,111 @@
-###########
-# site.title
-
+# This will be the first part of the title tag for your site <title> site.name + page.title </title>
 title: AS3R Lab
-description: a minimal, text focused blog theme
-# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://as3rlab.github.io/" # the base hostname & protocol for your site
-# host: 0.0.0.0
+url: "http://as3r-lab.com/" # the base hostname & protocol for your site, e.g. http://example.com, also used in jekyll-seo-tag
+baseurl:
+repo: https://github.com/AS3RLab/AS3RLab.github.io.git
+google_analytics_key:
 
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /images/about.png
+tagline:
+description: #Jekyll template for e-commerce with Gumroad integration
+author:
+  name: AS3R
+  email:
+  # twitter: TemplatesSupply # twitter username without the @ symbol
+  phone: ""
+social:
+  name: AS3R Lab # replace this
+  links: 
+    #- https://github.com/YJPL/supply
+    #- https://www.linkedin.com/company/templates-supply/
 
-#########################
-# more settings
-
-plugins:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
-
+# Build settings
 markdown: kramdown
-
-compress_html:
-  clippings: all
-  comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-  profile: false
-  blanklines: false
-  ignore:
-    envs: []
-
-# sass:
-#   sass_dir: css
-#   style:    compressed
+timezone: FR
 
 collections:
-  my_tags:
+  products:
+    _hide_content: false
     output: true
-    permalink: /tagged/:slug/
+
+permalink: /:title/ # pretty
+
 defaults:
   -
     scope:
       path: ""
-      type: my_tags
+      type: "products"
     values:
-      layout: tagged
+      layout: "product"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
 
-# baseurl: ""
-permalink: #/blog/:slug
-timezone: China/Shanghai
-future: false
+jekyll-archives:
+  enabled:
+    - categories
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-leaflet
+  - jekyll-feed
+  - jekyll-archives # not on Supply theme
+
+include:
+  - .htaccess
+  - _pages
 
 exclude:
-- README.md
-- LICENSE.md
-- pubs.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
+  - LICENCE
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
-exclude: [vendor]
+# Contact settings
+formcarry: https://formcarry.com/ # add you formcarry endpoint url (see https://formcarry.com/documentation/getting-started)
 
-# Blog: /blog
+# Social
 
+social_icons:
+  - Email
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
 
+feed:
+  collections:
+    products:
+      path: "/products.xml"
 
-# Add general links to site pages here
-links:
-  #Resume: /assets/resume.pdf
-  Publication: /publication
-  Members: /members
-  Teaching: /teaching
-  Event: /events
-  
-  
-
-# Add links for more focus here
-special_links:
-  #"Search": https://duckduckgo.com
-  Deadlines: "https://mirror-birth-326.notion.site/bd22f2e5c88c453087dcd24716c0c027?v=749068e5b4844a8eb11170c9f9e94693"
+# Jekyll Archives Settings https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled: 'all'
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/:name/'
+  category_archive:
+    type: liquid

@@ -1,105 +1,164 @@
-# jekyllBear
+## Supply, an e-commerce Jekyll theme with Gumroad integration
 
-## An easy to use, minimal, text focused Jekyll theme
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0fa21a2-19fa-45da-a77a-024c58295e7f/deploy-status)](https://app.netlify.com/sites/supply-demo/deploys)
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+Supply is an e-commerce template for [Jekyll](https://jekyllrb.com/) + [Gumroad](https://gumroad.com), designed with [Tachyons CSS](https://github.com/tachyons-css/tachyons).
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+If you are a Gumroad creator, you can use Supply with Jekyll to display and sell products on your site or blog.
 
-**Stop worrying about the style, focus on your writing.**
+[Demo Site with documentation](https://supply.templates.supply)
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages, with [a 100 on PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Fknhash.in%2FjekyllBear%2F)
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+Browse through a live demo: [https://templates.supply](https://templates.supply).
 
-## Screenshots
+![Supply template screenshot](/images/screenshot.png)
 
-![Home](https://raw.githubusercontent.com/Knhash/jekyllBear/master/assets/images/JBHome.png?raw=true "Home") 
-![Blog](https://raw.githubusercontent.com/Knhash/jekyllBear/master/assets/images/JBBlog.png?raw=true "Blog") 
-![LongForm](https://raw.githubusercontent.com/Knhash/jekyllBear/master/assets/images/JBLongForm.png?raw=true "LongForm") 
-![Poetry](https://raw.githubusercontent.com/Knhash/jekyllBear/master/assets/images/JBPoetry.png?raw=true "Poetry") 
+Find more [templates, themes, and Jekyll tutorials](https://jekyllrb.com/resources/).
+
+## Features
+
+- [x] List & display products, thanks to Jekyll's collections
+- [x] Take payment online using [Gumroad](https://gumroad.com)
+- [x] Contact form with [formcarry](https://www.formcarry.com)
+- [x] Map with [Leaflet](https://leafletjs.com "Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.") thanks to the [jekyll-leaflet plugin](https://github.com/DavidJVitale/jekyll-leaflet)
+- [x] [jekyll-archives](https://github.com/jekyll/jekyll-archives) to build and sort through categories & tags pages
+- [x] Custom variables
+- [x] RSS/Atom feed
+- [x] SEO tags
+- [x] Microdata markup
+- [ ] Jekyll `livereload` + [Browsersync](https://www.browsersync.io) for fast development
+- [x] Built-in site search
+
+## Setup
+
+1. Install [Jekyll](https://jekyllrb.com/docs/installation/)
+2. Add your site and author details in `_config.yml`.
+3. Get a workflow going to see your site's output with Jekyll locally.
+
+*Supply* was built with [Jekyll](http://jekyllrb.com/) version 4.0.0 and should support newer versions as well.
+
+Install the dependencies with [Bundler](http://bundler.io/):
+
+~~~bash
+$ bundle install
+~~~
+
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
+
+~~~bash
+$ bundle exec jekyll serve
+~~~
+
+### Config
+Add your custom configuration in the ```_config``` file.
+
+### Navigation
+
+* Exposed as a data file to give clients better access
+* Set in the *Data* / *Navigation* section, look for ```navigation.yml``` in  ```_data```.
+
+### Footer
+Look for ```footer.html``` in ```_includes``` to add and change your footer links.
+
+### Contact Page
+To add you formcarry endpoint URL to `_config.yml`, you'll need a fromcarry account, please refer to [formcarry documentation](https://formcarry.com/documentation/getting-started)
+
+Add your map coordinates if you want to display a map. Please refer to the [jekyll-leaflet plugin](https://davidjvitale.com/tech/jekyll-leaflet/getting-started/) and [Leaflet](https://leafletjs.co
+  m) documentation for customizing your map(s).
+
+### Product Pages
+If you have products on Gumroad, you can start adding product pages right away. Within the Supply theme, you'll find a sample of a product page with free products, ```free-products.html```, located in ```_pages```.
 
 
-## Installation
+## Develop
 
-Add this line to your Jekyll site's `Gemfile`:
+### Building front-end assets: styles and scripts
 
-```ruby
-gem "jekyll-bear-theme"
+4. Install Node module dependencies:
+
+~~~bash
+npm install
+~~~
+
+
+### Tachyons
+
+You can change the site styling using [Tachyons](http://tachyons.io), look for the CSS in the `sup-theme` file, located in the `src` folder.
+
+Tachyons is a CSS toolkit and design system based on using components. Please refer to [Tachyons documentation](http://tachyons.io/docs/), you can also start with [https://github.com/dwyl/learn-tachyons](https://github.com/dwyl/learn-tachyons)
+
+Once you are done with your style changes, run:
+
+Run the npm run 
+~~~bash
+build:css
+~~~
+
+That will process all your CSS files in one readable file located in `assets/css/sup-tachyons.css`. 
+
+to minify your css you can run 
+
+```
+npm run minify-css
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: jekyll-bear-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-bear-theme
-
-## Usage
-
-Create a new repository for your website (if necessary)
-```jekyll
-jekyll new my_website
-```
-
-Copy over the following content from this repository, to serve as a base setup
+or 
 
 ```
-/posts      -> Where you will write your posts
-/_my_tags   -> Where you will define your tags, if you need to add anything new
-blog.md     -> Homepage for your blog
-index.md    -> Website homepage
-404.html    -> When a page is not available
+npm run start
 ```
 
-You will need to update `_config.yml`. Copy over the lines after
+to minify and build the site locally.
+
+
+### npm commands with browser reload
+
+Supply uses a couple of custom Postcss npm scripts. Make sure your dependencies are installed: `npm install`. Type `npm outdated` to see if you have outdated versions, then install any outdated dependencies.
+
+Once that is done, to build your site & concatenate your CSS (in `assets` -> `CSS`), simply run:
 
 ```
-#########################
-# more settings
+npm run start
 ```
-in the `_config.yml` present in this repository to your website repository `_config.yml`.
 
-Any new links you want to add to the navbar goes here, towards the end.
-This also defines the bits about tags and filtering.
+This command builds the site locally on port 4000, you can quickly revise design changes thanks to `livereload`.
 
-There should be 3 kinds of blog posts in the posts folder, an example of each type you can use:
+## Editing
 
-- long-form reading
-- poetry
-- gallery view
+### Posts
 
-Use them as templates for your front matter.
+* Add, update, or remove a post in the *Posts* collection.
+* Change the defaults when new posts are created in `_posts/_defaults.md`.
 
->To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`.
+### Collections
+To display products, Supply uses a collection called ```product```
+You will find a series of product samples in the `_products` collection folder. By design, all the products are on display on the home page, in Supply, that is `ìndex.html`.
+You can manually create pages based on this index to [sort your products or any other collection by custom variable](/custom-variables/).
 
+You can also add your products in regular posts, using the Gumroad [overlay](/gumroad-overlay/), [embed](/gumroad-embed/), and [hyperlinks](/gumroad-hyperlink/) method, thanks to an include snippet.
 
-## Contributing
+Write something like:
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/knhash/jekyllBear. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+```html
+{% raw %}<a href="https://gum.co/supply class="no-underline pv2 grow db"><img class="w-100" src="/images/screenshot.png"></a>
 
-## Development
+{% include gumroad-overlay.html id="supply" %}{% endraw %}
+```
 
-To set up your environment to develop this theme, run `bundle install`.
+to get a product display like this:
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+<a href="https://gum.co/supply" class="no-underline pv2 grow db"><img class="w-100" src="/images/screenshot.png"></a>
 
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `jekyllBear.gemspec` accordingly.
+## Copyright / License
+*Supply* is designed by [alternatyves](https://alternatyves.com/) and licensed under the [MIT license](https://github.com/YJPL/Supply/blob/master/LICENSE).
 
-## License
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/YJPL/Supply/pulls)
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Please use and [contribute to *Supply* ](https://github.com/YJPL/Supply/pulls).
 
+<a href="https://www.buymeacoffee.com/alternatyves/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+## Who is using this?
+
+- [x] [templates.supply](https://templates.supply)
+
+Are you using Supply? [Let me know!](https://github.com/YJPL/supply/edit/master/README.md)
