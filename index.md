@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: 
 hero: 
 text-button: AS3R-Lab
