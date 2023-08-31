@@ -1,17 +1,17 @@
 - name: Publication
-  link: /publication/
+  link: /publication
   new_window: false
   highlight: false
 - name: Members
-  link: /members/
+  link: /members
   new_window: false
   highlight: false
 - name: Teaching
-  link: /teaching/
+  link: /teaching
   new_window: false
   highlight: false
 - name: Event
-  link: /events/
+  link: /events
   new_window: false
   highlight: false
 - name: Deadlines
