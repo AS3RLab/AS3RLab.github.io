@@ -5,7 +5,7 @@ description: Here be writings
 permalink: /events
 ---
 
-<table>
+<!-- <table>
   <tr>
     <th>Topic</th>
     <th>Hoster</th>
@@ -16,4 +16,4 @@ permalink: /events
     <td>Haitao Hu</td>
     <td>2023-7-2</td>
   </tr>
-</table>
+</table> -->

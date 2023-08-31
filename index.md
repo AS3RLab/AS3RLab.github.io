@@ -33,9 +33,9 @@ Email: chenyq @@ shanghaitech.edu.cn, phoenixcyq1994 @@ gmail.com
 Office: Room C-503.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Shanghai.
 
 ---
-## News
+<!-- ## News
 
 #### [Summer School on Type Theory organized by M4p1e!](https://infinity-type-cafe.github.io/ntype-cafe-summer-school/)
 
 
----
+--- -->
