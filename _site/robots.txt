@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://as3r-lab.com//sitemap.xml
