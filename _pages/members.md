@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Members
-description: Here be writings
-permalink: /members
+description: 
+permalink: /members/
+nav: true
 ---
 
 <!-- <img align="center" src="/images/allinone.jpg" alt="" > -->
@@ -19,12 +20,19 @@ permalink: /members
 * [Xuenan Zhang](/pages/zhangxn2021) (2021.09-), co-supervised with Yutian Tang
 * [Mingke Yang](/pages/yangmk2021) (2021.09), co-supervised with Yutian Tang -->
 
+* Hongru Wei (2023.09-)
+* Shibo Yu (2023.09-)
+* Feiyue Chen (2023.09-), co-supervised with Fu Song
+* Xi Yang (2023.09-), co-supervised with Fu Song
 * [Haitao Hu](https://m4p1e.com/) (2022.09-)
 * Guowei Yang (2022.09-), co-supervised with Fu Song
 * Huijia Sun (2022.09-)
 * Qingyuan Hu (2022.09-)
 * Xuenan Zhang (2021.09-), co-supervised with Yutian Tang
 * Mingke Yang (2021.09), co-supervised with Yutian Tang
+* JulianAndres JiYang(2021.09-), co-supervised with Fu Song
+* Pu Sun(2018.09-), co-supervised with Fu Song
+* Luwei Cai(2018.09-), co-supervised with Fu Song
 
 ### Undergraduates
 
