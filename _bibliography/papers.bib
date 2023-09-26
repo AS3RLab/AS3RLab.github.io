@@ -1,3 +1,84 @@
+
+@article {tse2024,
+  abbr      = {TSE},
+  title = {Constructing Cyber-Physical System Testing Suites using Active Sensor Fuzzing},
+  author = {Bohan Xuan and Fan Zhang and Mei Qian and Yuqi Chen and Wei Lin and Chris Poskitt and Jun Sun and Binbin Chen},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2024},
+  publisher = {IEEE Computer Society},
+}
+
+@ARTICLE{10064002,
+  abbr      = {TSE},
+  author={Zhou, Yuan and Sun, Yang and Tang, Yun and Chen, Yuqi and Sun, Jun and Poskitt, Christopher M. and Liu, Yang and Yang, Zijiang},
+  journal={IEEE Transactions on Software Engineering}, 
+  title={Specification-Based Autonomous Driving System Testing}, 
+  year={2023},
+  volume={49},
+  number={6},
+  pages={3391-3410},
+  doi={10.1109/TSE.2023.3254142}}
+
+@inproceedings{10.1109/ICSE48619.2023.00215,
+abbr = {ICSE},
+author = {Poskitt, Christopher M. and Chen, Yuqi and Sun, Jun and Jiang, Yu},
+title = {Finding Causally Different Tests for an Industrial Control System},
+year = {2023},
+isbn = {9781665457019},
+publisher = {IEEE Press},
+url = {https://doi.org/10.1109/ICSE48619.2023.00215},
+doi = {10.1109/ICSE48619.2023.00215},
+abstract = {Industrial control systems (ICSs) are types of cyber-physical systems in which programs, written in languages such as ladder logic or structured text, control industrial processes through sensing and actuating. Given the use of ICSs in critical infrastructure, it is important to test their resilience against manipulations of sensor/actuator inputs. Unfortunately, existing methods fail to test them comprehensively, as they typically focus on finding the simplest-to-craft manipulations for a testing goal, and are also unable to determine when a test is simply a minor permutation of another, i.e. based on the same causal events. In this work, we propose a guided fuzzing approach for finding 'meaningfully different' tests for an ICS via a general formalisation of sensor/actuator-manipulation strategies. Our algorithm identifies the causal events in a test, generalises them to an equivalence class, and then updates the fuzzing strategy so as to find new tests that are causally different from those already identified. An evaluation of our approach on a real-world water treatment system shows that it is able to find 106\% more causally different tests than the most comparable fuzzer. While we focus on diversifying the test suite of an ICS, our formalisation may be useful for other fuzzers that intercept communication channels.},
+booktitle = {Proceedings of the 45th International Conference on Software Engineering},
+pages = {2578–2590},
+numpages = {13},
+keywords = {equivalence classes, cyber-physical systems, fuzzing, causality, test diversity},
+location = {Melbourne, Victoria, Australia},
+series = {ICSE '23}
+}
+
+@inproceedings{10.1145/3551349.3556897,
+abbr = {ASE},
+author = {Sun, Yang and Poskitt, Christopher M. and Sun, Jun and Chen, Yuqi and Yang, Zijiang},
+title = {LawBreaker: An Approach for Specifying Traffic Laws and Fuzzing Autonomous Vehicles},
+year = {2023},
+isbn = {9781450394758},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3551349.3556897},
+doi = {10.1145/3551349.3556897},
+abstract = {Autonomous driving systems&nbsp;(ADSs) must be tested thoroughly before they can be deployed in autonomous vehicles. High-fidelity simulators allow them to be tested against diverse scenarios, including those that are difficult to recreate in real-world testing grounds. While previous approaches have shown that test cases can be generated automatically, they tend to focus on weak oracles (e.g.&nbsp;reaching the destination without collisions) without assessing whether the journey itself was undertaken safely and satisfied the law. In this work, we propose LawBreaker, an automated framework for testing ADSs against real-world traffic laws, which is designed to be compatible with different scenario description languages. LawBreaker provides a rich driver-oriented specification language for describing traffic laws, and a fuzzing engine that searches for different ways of violating them by maximising specification coverage. To evaluate our approach, we implemented it for Apollo+LGSVL and specified the traffic laws of China. LawBreaker was able to find 14 violations of these laws, including 173 test cases that caused accidents.},
+booktitle = {Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering},
+articleno = {62},
+numpages = {12},
+keywords = {STL, traffic laws, LGSVL, Autonomous vehicles, Apollo, fuzzing},
+location = {Rochester, MI, USA},
+series = {ASE '22}
+}
+
+@ARTICLE{9864200,
+  abbr = {IOT},
+  author={Geng, Yangyang and Chen, Yuqi and Ma, Rongkuan and Wei, Qiang and Pan, Jie and Wang, Jingyi and Cheng, Peng and Wang, Qingxian},
+  journal={IEEE Internet of Things Journal}, 
+  title={Defending Cyber–Physical Systems Through Reverse-Engineering-Based Memory Sanity Check}, 
+  year={2023},
+  volume={10},
+  number={10},
+  pages={8331-8347},
+  doi={10.1109/JIOT.2022.3200127}}
+
+
+@inproceedings{zhang2021figcps,
+  abbr      = {ASE},
+  title={FIGCPS: Effective Failure-inducing Input Generation for Cyber-Physical Systems with Deep Reinforcement Learning},
+  author={Zhang, Shaohua and Liu, Shuang and Sun, Jun and Chen, Yuqi and Huang, Wenzhi and Liu, Jinyi and Liu, Jian and Hao, Jianye},
+  booktitle={2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={555--567},
+  year={2021},
+  organization={IEEE}
+}
+
+
 @article{DBLP:journals/ijcip/JiaWPCSC21,
   abbr      = {IJCIP},
   author    = {Yifan Jia and
@@ -173,33 +254,3 @@
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
-@inproceedings{zhang2021figcps,
-  abbr      = {ASE},
-  title={FIGCPS: Effective Failure-inducing Input Generation for Cyber-Physical Systems with Deep Reinforcement Learning},
-  author={Zhang, Shaohua and Liu, Shuang and Sun, Jun and Chen, Yuqi and Huang, Wenzhi and Liu, Jinyi and Liu, Jian and Hao, Jianye},
-  booktitle={2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
-  pages={555--567},
-  year={2021},
-  organization={IEEE}
-}
-
-@ARTICLE{10064002,
-  abbr      = {TSE},
-  author={Zhou, Yuan and Sun, Yang and Tang, Yun and Chen, Yuqi and Sun, Jun and Poskitt, Christopher M. and Liu, Yang and Yang, Zijiang},
-  journal={IEEE Transactions on Software Engineering}, 
-  title={Specification-Based Autonomous Driving System Testing}, 
-  year={2023},
-  volume={49},
-  number={6},
-  pages={3391-3410},
-  doi={10.1109/TSE.2023.3254142}}
-
-
-@article {tse2024,
-  abbr      = {TSE},
-  title = {Constructing Cyber-Physical System Testing Suites using Active Sensor Fuzzing},
-  author = {Bohan Xuan and Fan Zhang and Mei Qian and Yuqi Chen and Wei Lin and Chris Poskitt and Jun Sun and Binbin Chen},
-  journal = {IEEE Transactions on Software Engineering},
-  year = {2024},
-  publisher = {IEEE Computer Society},
-}
