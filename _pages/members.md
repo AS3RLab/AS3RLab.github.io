@@ -13,9 +13,9 @@ nav: true
 
 ### Current Ph.D Students
 
-* JulianAndres JiYang(2021.09-)
-* Pu Sun(2018.09-)
-* Luwei Cai(2018.09-)
+* JulianAndres JiYang(2021.09-), co-supervised with Fu Song
+* Pu Sun(2018.09-), co-supervised with Fu Song
+* Luwei Cai(2018.09-), co-supervised with Fu Song
 
 ### Current Master Students
 
@@ -34,7 +34,7 @@ nav: true
 * Guowei Yang (2022.09-)
 * Huijia Sun (2022.09-)
 * Qingyuan Hu (2022.09-)
-* Mingke Yang (2021.09)
+* Mingke Yang (2021.09), co-supervised with Yutian Tang
 
 ### Undergraduates
 
