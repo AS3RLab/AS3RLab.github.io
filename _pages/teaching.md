@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description:
 nav: true
 nav_order: 5
@@ -12,3 +12,5 @@ For now, this page is assumed to be a static description of your courses. You ca
 Organize your courses by years, topics, or universities, however you like! -->
 * CS 224: Program Analysis, Spring 2023
 * CS 253: Cyber Security, Fall 2022
+
+* CS 224: Program Analysis, Fall 2023

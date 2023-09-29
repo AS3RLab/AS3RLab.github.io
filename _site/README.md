@@ -696,3 +696,10 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
+
+
+## Modification
+
+Deadlines link is add into header.html manually.
+
+<li class="nav-item"><a class="nav-link" href="https://mirror-birth-326.notion.site/CCF-Deadlines-f6806b0d54ae49ad918892a66441c2c5?pvs=4">Deadlines</a></li> 
