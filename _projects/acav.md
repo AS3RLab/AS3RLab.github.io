@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: ACAV
+description: A Framework for Automatic Causality Analysis in Autonomous Vehicle Accident Recordings
+img: assets/acav/img/1.jpg
+importance: 1
+category: Autonomous Vehicle
+related_publications:
 ---
 
 Every project has a beautiful feature showcase page.
