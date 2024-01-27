@@ -14,7 +14,7 @@ nav: true
 ### Current Ph.D Students
 
 * JulianAndres JiYang(2021.09-), co-supervised with Fu Song
-* Pu Sun(2018.09-), co-supervised with Fu Song    [[EasyBC]](https://dl.acm.org/doi/10.1145/3632871)
+* Pu Sun(2018.09-), co-supervised with Fu Song    [[POPL2024]](https://dl.acm.org/doi/10.1145/3632871)
 * Luwei Cai(2018.09-), co-supervised with Fu Song
 
 ### Current Master Students
@@ -32,7 +32,7 @@ nav: true
 * Xi Yang (2023.09-)
 * [Haitao Hu](https://m4p1e.com/) (2022.09-)
 * Guowei Yang (2022.09-)
-* Huijia Sun (2022.09-) [[ACAV]](https://acav2023.github.io/)
+* Huijia Sun (2022.09-) [[ICSE2024]](https://acav2023.github.io/)
 * Qingyuan Hu (2022.09-)
 * Mingke Yang (2021.09), co-supervised with Yutian Tang
 
