@@ -2,10 +2,10 @@
 layout: page
 title: ACAV
 description: A Framework for Automatic Causality Analysis in Autonomous Vehicle Accident Recordings
-img: assets/acav/img/1.jpg
+img: assets/acav/img/arch.jpg
 importance: 1
 category: Autonomous Vehicle
-related_publications:
+redirect: https://acav2023.github.io/
 ---
 
 Every project has a beautiful feature showcase page.

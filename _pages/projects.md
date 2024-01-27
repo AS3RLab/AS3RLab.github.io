@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description:
-nav: false
+nav: true
 nav_order: 2
 display_categories: [Autonomous Vehicle]
 horizontal: false
