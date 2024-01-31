@@ -33,13 +33,26 @@ Yuqi Chen is an assistant Professor (tenure-track) at [School of Information Sci
 
 His research interest lies in cyber-physical system security in general. Specifically, he apply techniques like testing, reverse engineering, program analysis, and formal method to secure and analyze CPSs (e.g., autonomous vehicles, industrial control systems, and robotics systems).
 
+
 ### Recruitment
 
 I am looking for self-motivated PhD/MS students, postdoc, and research assistant to conduct research in areas of software engineering, system security, AI security, and autonomous vehicles. Please feel free to drop me an email with your CV if you are interested.
 
 ---
 
-## Contact Information
+### Program Committee Member
+- 2024: ISSTA, TASE
+
+---
+
+### Reviewer
+- IEEE Transactions on Software Engineering
+- ACM Transactions on Software Engineering Methodolgy
+- IEEE Transactions on Computers
+
+---
+
+### Contact Information
 
 Email: chenyq @@ shanghaitech.edu.cn, phoenixcyq1994 @@ gmail.com
 
