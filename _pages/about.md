@@ -31,7 +31,7 @@ The Advanced System Safety and Security Research Lab, under the leadership of Pr
 
 Yuqi Chen is an assistant Professor (tenure-track) at [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/) in the [ShanghaiTech University](https://www.shanghaitech.edu.cn/). Yuqi completed his Ph.D. in 2019 at the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/) under the supervision of [Sun Jun](https://sunjun.site/). Besides, he also collaborated closely with [Chris Poskitt](https://cposkitt.github.io/). From 2019 to 2021, he worked as a Research Scientist in the [System Analysis and Verification (SAV) group](https://sav-smu.github.io/) group at [Singapore Management University(SMU)](https://www.smu.edu.sg/).
 
-His research interest lies in cyber-physical system security in general. Specifically, he apply techniques like testing, reverse engineering, program analysis, and formal method to secure and analyze CPSs (e.g., autonomous vehicles, industrial control systems, and robotics systems).
+His research interest includes AI-based system security, focusing on applying techniques such as program analysis, formal methods, and testing to secure and analyze AI-based systems. These systems include autonomous vehicles, industrial control systems, and robotics systems. Furthermore, he shows interest in exploring strategies for attacking and defending the Large Language Models.
 
 
 ### Recruitment
@@ -41,6 +41,7 @@ I am looking for self-motivated PhD/MS students, postdoc, and research assistant
 ---
 
 ### Program Committee Member
+- 2025: ISSTA
 - 2024: ISSTA, TASE
 
 ---
