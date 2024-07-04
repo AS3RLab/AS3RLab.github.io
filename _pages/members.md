@@ -36,7 +36,7 @@ nav: true
 * Huijia Sun (2022.09-) 
     * Publications: [[ICSE 2024]](https://acav2023.github.io/)
 * Qingyuan Hu (2022.09-)
-* Mingke Yang (2021.09-), co-supervised with Yutian Tang
+* Mingke Yang (2021.09-)
 
 ### Undergraduates
 
