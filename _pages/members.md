@@ -14,10 +14,13 @@ nav: true
 ### Current Ph.D Students
 
 * JulianAndres JiYang(2021.09-), co-supervised with Fu Song
-* Pu Sun(2018.09-), co-supervised with Fu Song    
-    * Publications: [[POPL 2024]](https://dl.acm.org/doi/10.1145/3632871)
+
 * Luwei Cai(2018.09-), co-supervised with Fu Song
 
+* Huijia Sun (2022.09-) 
+    * Publications: [[ICSE 2024]](https://acav2023.github.io/)
+* [Haitao Hu](https://m4p1e.com/) (2022.09-)
+  
 ### Current Master Students
 
 <!-- <!-- * [Haitao Hu](/pages/huht2022) (2022.09-)
@@ -31,15 +34,17 @@ nav: true
 * Shibo Yu (2023.09-)
 * Feiyue Chen (2023.09-)
 * Xi Yang (2023.09-)
-* [Haitao Hu](https://m4p1e.com/) (2022.09-)
 * Guowei Yang (2022.09-)
-* Huijia Sun (2022.09-) 
-    * Publications: [[ICSE 2024]](https://acav2023.github.io/)
 * Qingyuan Hu (2022.09-)
-* Mingke Yang (2021.09-)
+
 
 ### Undergraduates
 
 * Chenning Huang (2023.07-)
 * Zeyu Zhao (2023.07-)
 * Junzhe Yu (2023.04-)
+
+### Former Postgraduate Students
+* Mingke Yang (2021.09-2024.06)
+* Pu Sun(2018.09-), co-supervised with Fu Song
+     *Publications: [POPL 2024]
