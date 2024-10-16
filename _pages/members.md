@@ -46,5 +46,5 @@ nav: true
 
 ### Former Postgraduate Students
 * Mingke Yang (2021.09-2024.06)
-* Pu Sun(2018.09-), co-supervised with Fu Song
+* Pu Sun(2018.09-2024.06), co-supervised with Fu Song
      *Publications: [POPL 2024]
