@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 2
-display_categories: [Autonomous Vehicle]
+display_categories: [Autonomous Vehicle, Large Language Model]
 horizontal: false
 ---
 

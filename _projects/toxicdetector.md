@@ -1,11 +1,11 @@
 ---
 layout: page
-title: DistillSeq
-description: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation
-img: assets/distillseq/img/arch.png
+title: ToxicDetector
+description: Efficient Detection of Toxic Prompts in Large Language Models
+img: assets/toxicdetector/img/arch.png
 importance: 1
 category: Large Language Model
-redirect: https://distillseq.github.io/page/
+redirect: https://sites.google.com/view/toxic-prompt-detector
 ---
 
 Every project has a beautiful feature showcase page.
