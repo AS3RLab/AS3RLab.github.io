@@ -36,15 +36,17 @@ nav: true
 * Xi Yang (2023.09-)
 * Guowei Yang (2022.09-)
 * Qingyuan Hu (2022.09-)
+* Linzhi Chen (2024.09-)
+* Xuanxi Chen (2024.09-)
 
 
 ### Undergraduates
 
-* Chenning Huang (2023.07-)
-* Zeyu Zhao (2023.07-)
 * Junzhe Yu (2023.04-)
+* Zishuo Fang (2024.09-)
+* Shizhao Ye (2024.09-)
 
-### Former Postgraduate Students
+### Alumni
 * Mingke Yang (2021.09-2024.06)
 * Pu Sun(2018.09-2024.06), co-supervised with Fu Song
      *Publications: [POPL 2024]
