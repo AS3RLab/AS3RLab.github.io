@@ -16,11 +16,11 @@ nav: true
 * JulianAndres JiYang(2021.09-), co-supervised with Fu Song
 
 * Luwei Cai(2018.09-), co-supervised with Fu Song
-
+   * Publications: [[ACM 2024]](https://dl.acm.org/doi/abs/10.1145/3643772)
 * Huijia Sun (2022.09-) 
     * Publications: [[ICSE 2024]](https://acav2023.github.io/)
-* [Haitao Hu](https://m4p1e.com/) (2022.09-)
-  
+* Haitao Hu (2022.09-)
+   * [Blog](https://m4p1e.com/) 
 ### Current Master Students
 
 <!-- <!-- * [Haitao Hu](/pages/huht2022) (2022.09-)
@@ -30,12 +30,12 @@ nav: true
 * [Xuenan Zhang](/pages/zhangxn2021) (2021.09-), co-supervised with Yutian Tang
 * [Mingke Yang](/pages/yangmk2021) (2021.09), co-supervised with Yutian Tang -- -->
 
-* Hongru Wei (2023.09-)
-* Shibo Yu (2023.09-)
-* Feiyue Chen (2023.09-)
-* Xi Yang (2023.09-)
 * Guowei Yang (2022.09-)
 * Qingyuan Hu (2022.09-)
+* Feiyue Chen (2023.09-)
+* Hongru Wei (2023.09-)
+* Shibo Yu (2023.09-)
+* Xi Yang (2023.09-)
 * Linzhi Chen (2024.09-)
 * Xuanxi Chen (2024.09-)
 
@@ -43,10 +43,12 @@ nav: true
 ### Undergraduates
 
 * Junzhe Yu (2023.04-)
+   * Publications: [[ASE 2024]](https://sites.google.com/view/toxic-prompt-detector)
 * Zishuo Fang (2024.09-)
 * Shizhao Ye (2024.09-)
 
 ### Alumni
 * Mingke Yang (2021.09-2024.06)
+   * Publications: [[ISSTA 2024]](https://distillseq.github.io/page/)
 * Pu Sun(2018.09-2024.06), co-supervised with Fu Song
-     *Publications: [POPL 2024]
+   * Publications: [[POPL 2024]](https://dl.acm.org/doi/10.1145/3632871#artseq-00001)
