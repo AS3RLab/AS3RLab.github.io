@@ -43,6 +43,7 @@ nav: true
 
 * Junzhe Yu   (2023.04-)
    * Publications: [[ASE 2024]](https://sites.google.com/view/toxic-prompt-detector)
+* Bangzheng Fu (2024.09-)
 * Zishuo Fang (2024.09-)
 * Shizhao Ye  (2024.09-)
 
