@@ -14,12 +14,12 @@ nav: true
 ### Current Ph.D Students
 
 * Luwei Cai  (2018.09-), co-supervised with Fu Song
-    * Publications: [[ACM 2024]](https://dl.acm.org/doi/abs/10.1145/3643772)
 * JulianAndres JiYang (2021.09-), co-supervised with Fu Song
 * Huijia Sun (2022.09-) 
     * Publications: [[ICSE 2024]](https://acav2023.github.io/)
-* Haitao Hu  (2022.09-)
-    * [Blog](https://m4p1e.com/) 
+* [Haitao Hu](https://m4p1e.com/)   (2022.09-)
+
+
 ### Current Master Students
 
 <!-- <!-- * [Haitao Hu](/pages/huht2022) (2022.09-)
