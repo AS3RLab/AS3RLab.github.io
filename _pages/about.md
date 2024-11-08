@@ -41,7 +41,7 @@ I am looking for self-motivated PhD/MS students, postdoc, and research assistant
 ---
 
 ### Program Committee Member
-- 2025: ISSTA, SANER, FSE(industry track)
+- 2025: ISSTA, SANER, FSE (industry track)
 - 2024: ISSTA, TASE
 
 ---
