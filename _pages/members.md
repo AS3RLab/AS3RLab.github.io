@@ -46,6 +46,8 @@ nav: true
 * Bangzheng Fu (2024.09-)
 * Zishuo Fang (2024.09-)
 * Shizhao Ye  (2024.09-)
+* Chenning Huang (2024.09-)
+* Xiaoxia Zhang  (2024.09-)
 
 ### Alumni
 * Mingke Yang  (2021.09-2024.06)
