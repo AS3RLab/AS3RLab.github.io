@@ -55,7 +55,7 @@ I am looking for self-motivated PhD/MS students, postdoc, and research assistant
 
 ### Contact Information
 
-Email: chenyq @@ shanghaitech.edu.cn, phoenixcyq1994 @@ gmail.com
+Email: chenyq @ shanghaitech.edu.cn, phoenixcyq1994 @ gmail.com
 
 Office: Room 1A-504.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Shanghai.
 
