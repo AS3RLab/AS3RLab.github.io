@@ -13,7 +13,6 @@ nav: true
 
 ### Current Ph.D Students
 
-* Luwei Cai  (2018.09-), co-supervised with Fu Song
 * JulianAndres JiYang (2021.09-), co-supervised with Fu Song
 * Huijia Sun (2022.09-) 
     * Publications: [[ICSE 2024]](https://acav2023.github.io/)
