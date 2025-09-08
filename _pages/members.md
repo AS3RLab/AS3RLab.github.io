@@ -17,6 +17,7 @@ nav: true
 * Huijia Sun (2022.09-) 
     * Publications: [[ICSE 2024]](https://acav2023.github.io/)
 * [Haitao Hu](https://m4p1e.com/)   (2022.09-)
+* Qingyuan Hu (2022.09-)
 
 
 ### Current Master Students
@@ -36,13 +37,14 @@ nav: true
 * Xi Yang     (2023.09-)
 * Linzhi Chen (2024.09-)
 * Xuanxi Chen (2024.09-)
+* Bangzheng Fu (2024.09-)
+* Jiajing xia (2025.09-)
 
 
 ### Undergraduates
 
 * Junzhe Yu   (2023.04-)
    * Publications: [[ASE 2024]](https://sites.google.com/view/toxic-prompt-detector)
-* Bangzheng Fu (2024.09-)
 * Zishuo Fang (2024.09-)
 * Shizhao Ye  (2024.09-)
 * Chenning Huang (2024.09-)
