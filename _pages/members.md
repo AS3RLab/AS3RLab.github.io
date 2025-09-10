@@ -31,13 +31,12 @@ nav: true
 * [Mingke Yang](/pages/yangmk2021) (2021.09), co-supervised with Yutian Tang -- -->
 
 * Guowei Yang (2022.09-)
-* Qingyuan Hu (2022.09-)
 * Feiyue Chen (2023.09-)
 * Hongru Wei  (2023.09-)
 * Xi Yang     (2023.09-)
 * Linzhi Chen (2024.09-)
 * Xuanxi Chen (2024.09-)
-* Bangzheng Fu (2024.09-)
+* Bangzheng Fu (2025.09-)
 * Jiajing xia (2025.09-)
 
 
