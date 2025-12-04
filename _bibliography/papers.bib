@@ -75,7 +75,6 @@ doi = {https://doi.org/10.1016/j.comnet.2024.110927},
 url = {https://www.sciencedirect.com/science/article/pii/S138912862400759X},
 author = {Kaixiang Liu and Yongfang Xie and Yuqi Chen and Shiwen Xie and Xin Chen and Dongliang Fang and Limin Sun},
 keywords = {Safety instrumented system, Safety function attack, Physical fault, Anomaly detection, Process monitoring},
-abstract = {High-stakes process industries require a harmonious relationship between the Safety Instrumented System (SIS) and the Basic Process Control System (BPCS) to guarantee the safety and stability of operations. As security threats to SIS intensify, the imperative to fortify it against cyber-attacks has never been more critical. SIS activates safety functions to bring the process to a safe state or shut it down under anomalous conditions. This raises two critical questions for SIS security: (1) how to differentiate between genuine industrial anomalies and data injected by attackers to prevent unnecessary shutdowns and economic losses; and (2) how to distinguish between attackers’ replayed data and normal operational data to avoid casualties resulting from delayed shutdowns. In addressing these challenges, we introduce SFACIF, a framework designed to effectively identify safety function attacks and anomalous industrial conditions. Inspired by advanced two out of three voting mechanisms and process monitoring technologies, our approach encompasses several innovative strategies. Initially, a deep learning-based time series prediction method is employed to generate benchmark data. Next, potential issues are identified by detecting deviations through pairwise comparisons between the predicted benchmark data, SIS observations, and BPCS observations. To account for the higher failure rates in BPCS and the presence of process noise, we apply a modified sliding window residual statistical method for analysis. Lastly, we introduce a novel coding scheme to interpret the results of the three-way comparison, enabling the identification of safety function attacks and abnormal industrial conditions. To validate the efficacy of SFACIF, we devised a physical simulation platform that mirrors real-world industrial environments, facilitating a rigorous assessment of our framework under operational conditions. The performance metrics underscore the superior capability of SFACIF, which achieved 99% accuracy and 1% false alarm rate. These results not only attest to the ability of SFACIF to accurately differentiate between various attack vectors but also highlight its proficiency in discerning between authentic and manipulated data.},
 selected={true}
 }
 
@@ -94,12 +93,7 @@ selected={true}
   journal={IEEE Transactions on Information Forensics and Security}, 
   title={PowerGuard: Using Power Side-Channel Signals to Secure Motion Controllers in ICS}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Trajectory;Motors;Motion control;Rotors;Servomotors;Manufacturing;Accuracy;Side-channel;anomaly detection;intrusion detection systems;cyber-physical systems},
   abbr = {TIFS},
-  doi={10.1109/TIFS.2024.3451362},
   selected={true}
 }
 
@@ -121,11 +115,6 @@ selected={true}
   journal={IEEE Internet of Things Journal}, 
   title={Detecting Cyber-Attacks Against Cyber-Physical Manufacturing System: A Machining Process Invariant Approach}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Machining;Codes;Servers;Cyberattack;Computer numerical control;Intrusion detection;Process control;Industrial Internet of Things;Cyber-Physical Manufacturing Systems;Computer Numerical Control;Intrusion Detection;Cyber Attack},
-  doi={10.1109/JIOT.2024.3358798},
   selected={true}
 }
 
@@ -135,7 +124,6 @@ author = {Sun, Huijia and Poskitt, Christopher M. and Sun, Yang and Sun, Jun and
 title = {ACAV: A Framework for Automatic Causality Analysis in Autonomous Vehicle Accident Recordings},
 year = {2024},
 publisher = {IEEE Press},
-abstract = {The rapid progress of autonomous vehicles~(AVs) has brought the prospect of a driverless future closer than ever. Recent fatalities, however, have emphasized the importance of safety validation through large-scale testing. Multiple approaches achieve this fully automatically using high-fidelity simulators, i.e., by generating diverse driving scenarios and evaluating autonomous driving systems~(ADSs) against different test oracles. While effective at finding violations, these approaches do not identify the decisions and actions that caused them—information that is critical for improving the safety of ADSs. To address this challenge, we propose ACAV, an automated framework designed to conduct causality analysis for AV accident recordings in two stages. First, we apply feature extraction schemas based on the messages exchanged between ADS modules, and use a weighted voting method to discard frames of the recording unrelated to the accident. Second, we use safety specifications to identify safety-critical frames and deduce causal events by applying CAT—our causal analysis tool—to a station-time graph. We evaluate ACAV on the Apollo ADS, finding that it can identify five distinct types of causal events in 93.64% of 110 accident recordings generated by an AV testing engine. We further evaluated ACAV on 1206 accident recordings collected from versions of Apollo injected with specific faults, finding that it can correctly identify causal events in 96.44% of the accidents triggered by prediction errors, and 85.73% of the accidents triggered by planning errors.},
 booktitle = {Proceedings of the 46th International Conference on Software Engineering},
 series = {ICSE '24},
 selected={true}
@@ -148,7 +136,6 @@ title = {EasyBC: A Cryptography-Specific Language for Security Analysis of Block
 year = {2024},
 number = {POPL},
 journal = {ACM SIGPLAN Symposium on Principles of Programming Languages},
-url = {https://popl24.sigplan.org/details/POPL-2024-popl-research-papers/31/EasyBC-A-Cryptography-Specific-Language-for-Security-Analysis-of-Block-Ciphers-again},
 selected={true}
 }
 
@@ -157,13 +144,8 @@ selected={true}
   author={Geng, Yangyang and Che, Xin and Ma, Rongkuan and Wei, Qiang and Wang, Mufeng and Chen, Yuqi},
   journal={IEEE Internet of Things Journal}, 
   title={Control Logic Attack Detection and Forensics through Reverse-engineering and Verifying PLC Control Applications}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/JIOT.2023.3318988}
+  year={2023}
 }
-
 
 
 @article{article,
@@ -184,10 +166,7 @@ doi = {10.1109/TSE.2023.3309330}
   journal={IEEE Transactions on Software Engineering}, 
   title={Specification-Based Autonomous Driving System Testing}, 
   year={2023},
-  volume={49},
-  number={6},
-  pages={3391-3410},
-  doi={10.1109/TSE.2023.3254142}}
+}
 
 @inproceedings{10.1109/ICSE48619.2023.00215,
 abbr = {ICSE},
@@ -198,11 +177,7 @@ isbn = {9781665457019},
 publisher = {IEEE Press},
 url = {https://doi.org/10.1109/ICSE48619.2023.00215},
 doi = {10.1109/ICSE48619.2023.00215},
-abstract = {Industrial control systems (ICSs) are types of cyber-physical systems in which programs, written in languages such as ladder logic or structured text, control industrial processes through sensing and actuating. Given the use of ICSs in critical infrastructure, it is important to test their resilience against manipulations of sensor/actuator inputs. Unfortunately, existing methods fail to test them comprehensively, as they typically focus on finding the simplest-to-craft manipulations for a testing goal, and are also unable to determine when a test is simply a minor permutation of another, i.e. based on the same causal events. In this work, we propose a guided fuzzing approach for finding 'meaningfully different' tests for an ICS via a general formalisation of sensor/actuator-manipulation strategies. Our algorithm identifies the causal events in a test, generalises them to an equivalence class, and then updates the fuzzing strategy so as to find new tests that are causally different from those already identified. An evaluation of our approach on a real-world water treatment system shows that it is able to find 106\% more causally different tests than the most comparable fuzzer. While we focus on diversifying the test suite of an ICS, our formalisation may be useful for other fuzzers that intercept communication channels.},
 booktitle = {Proceedings of the 45th International Conference on Software Engineering},
-pages = {2578–2590},
-numpages = {13},
-keywords = {equivalence classes, cyber-physical systems, fuzzing, causality, test diversity},
 location = {Melbourne, Victoria, Australia},
 series = {ICSE '23}
 }
@@ -216,12 +191,7 @@ year = {2022},
 isbn = {9781450394758},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3551349.3556897},
-doi = {10.1145/3551349.3556897},
-abstract = {Autonomous driving systems&nbsp;(ADSs) must be tested thoroughly before they can be deployed in autonomous vehicles. High-fidelity simulators allow them to be tested against diverse scenarios, including those that are difficult to recreate in real-world testing grounds. While previous approaches have shown that test cases can be generated automatically, they tend to focus on weak oracles (e.g.&nbsp;reaching the destination without collisions) without assessing whether the journey itself was undertaken safely and satisfied the law. In this work, we propose LawBreaker, an automated framework for testing ADSs against real-world traffic laws, which is designed to be compatible with different scenario description languages. LawBreaker provides a rich driver-oriented specification language for describing traffic laws, and a fuzzing engine that searches for different ways of violating them by maximising specification coverage. To evaluate our approach, we implemented it for Apollo+LGSVL and specified the traffic laws of China. LawBreaker was able to find 14 violations of these laws, including 173 test cases that caused accidents.},
 booktitle = {Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering},
-articleno = {62},
-numpages = {12},
 keywords = {STL, traffic laws, LGSVL, Autonomous vehicles, Apollo, fuzzing},
 location = {Rochester, MI, USA},
 series = {ASE '22}
@@ -233,9 +203,6 @@ series = {ASE '22}
   journal={IEEE Internet of Things Journal}, 
   title={Defending Cyber–Physical Systems Through Reverse-Engineering-Based Memory Sanity Check}, 
   year={2022},
-  volume={10},
-  number={10},
-  pages={8331-8347},
   doi={10.1109/JIOT.2022.3200127}}
 
 
@@ -261,15 +228,10 @@ series = {ASE '22}
   title     = {Adversarial attacks and mitigation for anomaly detectors of cyber-physical
                systems},
   journal   = {Int. J. Crit. Infrastructure Prot.},
-  volume    = {34},
-  pages     = {100452},
   year      = {2021},
-  url       = {https://doi.org/10.1016/j.ijcip.2021.100452},
   doi       = {10.1016/j.ijcip.2021.100452},
-  timestamp = {Mon, 03 Jan 2022 00:00:00 +0100},
   biburl    = {https://dblp.org/rec/journals/ijcip/JiaWPCSC21.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-  
 }
 
 @inproceedings{DBLP:conf/sigsoft/0001P021,
@@ -286,14 +248,9 @@ series = {ASE '22}
   booktitle = {{ESEC/FSE} '21: 29th {ACM} Joint European Software Engineering Conference
                and Symposium on the Foundations of Software Engineering, Athens,
                Greece, August 23-28, 2021},
-  pages     = {32--44},
   publisher = {{ACM}},
   year      = {2021},
-  url       = {https://doi.org/10.1145/3468264.3468617},
-  doi       = {10.1145/3468264.3468617},
-  timestamp = {Thu, 23 Sep 2021 01:00:00 +0200},
-  biburl    = {https://dblp.org/rec/conf/sigsoft/0001P021.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1145/3468264.3468617}
 }
 
 
@@ -312,14 +269,9 @@ series = {ASE '22}
   title     = {Active fuzzing for testing and securing cyber-physical systems},
   booktitle = {{ISSTA} '20: 29th {ACM} {SIGSOFT} International Symposium on Software
                Testing and Analysis, Virtual Event, USA, July 18-22, 2020},
-  pages     = {14--26},
   publisher = {{ACM}},
   year      = {2020},
-  url       = {https://doi.org/10.1145/3395363.3397376},
-  doi       = {10.1145/3395363.3397376},
-  timestamp = {Sat, 05 Sep 2020 01:00:00 +0200},
-  biburl    = {https://dblp.org/rec/conf/issta/0001XP0020.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1145/3395363.3397376}
 }
 
 
@@ -336,14 +288,9 @@ series = {ASE '22}
                Defences},
   booktitle = {34th {IEEE/ACM} International Conference on Automated Software Engineering,
                {ASE} 2019, San Diego, CA, USA, November 11-15, 2019},
-  pages     = {962--973},
   publisher = {{IEEE}},
   year      = {2019},
-  url       = {https://doi.org/10.1109/ASE.2019.00093},
-  doi       = {10.1109/ASE.2019.00093},
-  timestamp = {Fri, 27 Mar 2020 00:00:00 +0100},
-  biburl    = {https://dblp.org/rec/conf/kbse/0001P0A019.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1109/ASE.2019.00093}
 }
 
 
@@ -358,14 +305,9 @@ series = {ASE '22}
                of a Cyber-Physical System},
   booktitle = {2018 {IEEE} Symposium on Security and Privacy, {SP} 2018, Proceedings,
                21-23 May 2018, San Francisco, California, {USA}},
-  pages     = {648--660},
   publisher = {{IEEE} Computer Society},
   year      = {2018},
-  url       = {https://doi.org/10.1109/SP.2018.00016},
-  doi       = {10.1109/SP.2018.00016},
-  timestamp = {Wed, 16 Oct 2019 14:14:51 +0200},
-  biburl    = {https://dblp.org/rec/conf/sp/ChenP018.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1109/SP.2018.00016}
 }
 
 
@@ -389,14 +331,9 @@ series = {ASE '22}
                Machine Learning},
   booktitle = {2017 {IEEE} International Conference on Data Mining Workshops, {ICDM}
                Workshops 2017, New Orleans, LA, USA, November 18-21, 2017},
-  pages     = {1058--1065},
   publisher = {{IEEE} Computer Society},
   year      = {2017},
-  url       = {https://doi.org/10.1109/ICDMW.2017.149},
-  doi       = {10.1109/ICDMW.2017.149},
-  timestamp = {Sun, 25 Jul 2021 01:00:00 +0200},
-  biburl    = {https://dblp.org/rec/conf/icdm/InoueYCP017.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1109/ICDMW.2017.149}
 }
 
 
@@ -415,13 +352,7 @@ series = {ASE '22}
   booktitle = {{FM} 2016: Formal Methods - 21st International Symposium, Limassol,
                Cyprus, November 9-11, 2016, Proceedings},
   series    = {Lecture Notes in Computer Science},
-  volume    = {9995},
-  pages     = {155--163},
   year      = {2016},
-  url       = {https://doi.org/10.1007/978-3-319-48989-6\_10},
-  doi       = {10.1007/978-3-319-48989-6\_10},
-  timestamp = {Tue, 14 May 2019 10:00:46 +0200},
-  biburl    = {https://dblp.org/rec/conf/fm/ChenP016.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1007/978-3-319-48989-6\_10}
 }
 
