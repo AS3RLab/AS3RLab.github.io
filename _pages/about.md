@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ## Advanced System Safety and Security Research Lab
-The Advanced System Safety and Security Research Lab, Led by Prof. Yuqi Chen at ShanghaiTech University’s School of Information Science and Technology, the Advanced System Safety and Security Research Lab pioneers safety and security solutions for cyber-physical systems, embodied AI, and LLM-driven agents.
+Led by Prof. Yuqi Chen at ShanghaiTech University’s School of Information Science and Technology, the Advanced System Safety and Security Research Lab pioneers safety and security solutions for cyber-physical systems, embodied AI, and LLM-driven agents.
 ---
 
 ## Yuqi Chen
