@@ -57,5 +57,5 @@ nav: true
    * Publications: [[ASE 2024]](https://sites.google.com/view/toxic-prompt-detector)
 * Mingke Yang (2021.09–2024.06): China Telecom.
    * Publications: [[ISSTA 2024]](https://distillseq.github.io/page/)
-* Pu Sun (2018.09–2024.06): Tongling University (co-supervised with Prof. Fu Song).
+* Pu Sun (2018.09–2024.06): Tongling University (co-supervised with Fu Song).
    * Publications: [[POPL 2024]](https://dl.acm.org/doi/10.1145/3632871#artseq-00001)
