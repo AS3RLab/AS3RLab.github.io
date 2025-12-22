@@ -33,7 +33,7 @@ nav: true
 * [Mingke Yang](/pages/yangmk2021) (2021.09), co-supervised with Yutian Tang -- -->
 
 * Guowei Yang (2022.09-)
-     * Publications: [TOSEM 2025]](https://dl.acm.org/doi/10.1145/3771544)
+     * Publications: [[TOSEM 2025]](https://dl.acm.org/doi/10.1145/3771544)
 * Feiyue Chen (2023.09-)
 * Hongru Wei  (2023.09-)
 * Xi Yang     (2023.09-)
