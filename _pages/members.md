@@ -51,11 +51,12 @@ nav: true
 
 
 ### Alumni
-* Chenning Huang (2024.09–2025.06): University of Pennsylvania, Master's program.
-* Xiaoxia Zhang (2024.09–2025.06): Shanghai University of Finance and Economics, Master's program.
-* Junzhe Yu (2023.04–2025.06): The University of Hong Kong, PhD program.
+* Chenning Huang (Undergraduate Student), now Master student at University of Pennsylvania.
+* Xiaoxia Zhang (Undergraduate Student), now Master student at Shanghai University of Finance and Economics.
+* Junzhe Yu (Undergraduate Student), now PhD student at The University of Hong Kong.
    * Publications: [[ASE 2024]](https://sites.google.com/view/toxic-prompt-detector)
-* Mingke Yang (2021.09–2024.06): China Telecom.
+* Mingke Yang (Master Student), now in industry (China Telecom).
    * Publications: [[ISSTA 2024]](https://distillseq.github.io/page/)
-* Pu Sun (2018.09–2024.06): Tongling University (co-supervised with Fu Song).
+* Pu Sun (PhD Student), now Lecturer at Tongling University (co-supervised with Fu Song).
    * Publications: [[POPL 2024]](https://dl.acm.org/doi/10.1145/3632871#artseq-00001)
+ 
