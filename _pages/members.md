@@ -38,6 +38,7 @@ nav: true
 * Hongru Wei  (2023.09-)
 * Xi Yang     (2023.09-)
 * Linzhi Chen (2024.09-)
+     * Publications: [[NDSS 2026]](https://arxiv.org/abs/2512.19297)
 * Xuanxi Chen (2024.09-)
 * Bangzheng Fu (2025.09-)
 * Jiajing xia (2025.09-)
