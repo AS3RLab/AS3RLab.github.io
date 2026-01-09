@@ -11,8 +11,9 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-* CS 151: Computer Security I Spring 2025
+* CS 224:  Program Analysis, Fall 2025
   
+* CS 151: Computer Security I Spring 2025
 * CS 224: Program Analysis, Fall 2024
 * CS 224: Program Analysis, Fall 2023
 * CS 224: Program Analysis, Spring 2023
