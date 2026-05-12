@@ -32,11 +32,11 @@ nav: true
 * [Xuenan Zhang](/pages/zhangxn2021) (2021.09-), co-supervised with Yutian Tang
 * [Mingke Yang](/pages/yangmk2021) (2021.09), co-supervised with Yutian Tang -- -->
 
-* Guowei Yang (2022.09-)
+<!--* Guowei Yang (2022.09-)
      * Publications: [[TOSEM 2025]](https://dl.acm.org/doi/10.1145/3771544)
 * Feiyue Chen (2023.09-)
 * Hongru Wei  (2023.09-)
-* Xi Yang     (2023.09-)
+* Xi Yang     (2023.09-)-->
 * Linzhi Chen (2024.09-)
      * Publications: [[NDSS 2026]](https://arxiv.org/abs/2512.19297)
 * Xuanxi Chen (2024.09-)
@@ -52,12 +52,18 @@ nav: true
 
 
 ### Alumni
+
+* Pu Sun (PhD Student), now Lecturer at Tongling University (co-supervised with Fu Song).
+   * Publications: [[POPL 2024]](https://dl.acm.org/doi/10.1145/3632871#artseq-00001)
+* Mingke Yang (Master Student), now in industry (China Telecom).
+   * Publications: [[ISSTA 2024]](https://distillseq.github.io/page/)
 * Chenning Huang (Undergraduate Student), now Master student at University of Pennsylvania.
 * Xiaoxia Zhang (Undergraduate Student), now Master student at Shanghai University of Finance and Economics.
 * Junzhe Yu (Undergraduate Student), now PhD student at The University of Hong Kong.
    * Publications: [[ASE 2024]](https://sites.google.com/view/toxic-prompt-detector)
-* Mingke Yang (Master Student), now in industry (China Telecom).
-   * Publications: [[ISSTA 2024]](https://distillseq.github.io/page/)
-* Pu Sun (PhD Student), now Lecturer at Tongling University (co-supervised with Fu Song).
-   * Publications: [[POPL 2024]](https://dl.acm.org/doi/10.1145/3632871#artseq-00001)
+* Guowei Yang (Master Student), now PhD student under the "Tong Program" (ShanghaiTech-BIGAI joint PhD program).
+   * Publications: [[TOSEM 2025]](https://dl.acm.org/doi/10.1145/3771544)
+* Xi Yang (Master Student), now in industry (Shanghai WingSemitech Co., Ltd.).
+* Feiyue Chen (Master Student), now in industry (ByteDance).
+* Hongru Wei (Master Student), now in industry (PetroChina Southwest Oil & Gas Field Company).
  
