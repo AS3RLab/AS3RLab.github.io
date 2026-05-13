@@ -63,8 +63,6 @@ nav: true
 * Xiaoxia Zhang (Undergraduate Student), now Master student at Shanghai University of Finance and Economics.
 * Junzhe Yu (Undergraduate Student), now PhD student at The University of Hong Kong.
    * Publications: [[ASE 2024]](https://sites.google.com/view/toxic-prompt-detector)
-* Guowei Yang (Master Student), now PhD student under the "Tong Program" (ShanghaiTech-BIGAI joint PhD program).
-   * Publications: [[TOSEM 2025]](https://dl.acm.org/doi/10.1145/3771544)
 * Xi Yang (Master Student), now in industry (Shanghai WingSemitech Co., Ltd.).
 * Feiyue Chen (Master Student), now in industry (ByteDance).
 * Hongru Wei (Master Student), now in industry (PetroChina Southwest Oil & Gas Field Company).
