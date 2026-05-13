@@ -21,6 +21,8 @@ nav: true
 * Qingyuan Hu (2022.09-)
     * Publications: [[RAID 2025]](https://arxiv.org/abs/2512.08320)
 * Shibo Yu    (2023.09-)
+* Guowei Yang (2022.09-)
+    * Publications: [[TOSEM 2025]](https://dl.acm.org/doi/10.1145/3771544)
 
 
 ### Current Master Students
