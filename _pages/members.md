@@ -23,6 +23,8 @@ nav: true
 * Shibo Yu    (2023.09-)
 * Guowei Yang (2022.09-)
     * Publications: [[TOSEM 2025]](https://dl.acm.org/doi/10.1145/3771544)
+* Linzhi Chen (2024.09-)
+     * Publications: [[NDSS 2026]](https://arxiv.org/abs/2512.19297)
 
 
 ### Current Master Students
@@ -39,8 +41,6 @@ nav: true
 * Feiyue Chen (2023.09-)
 * Hongru Wei  (2023.09-)
 * Xi Yang     (2023.09-)-->
-* Linzhi Chen (2024.09-)
-     * Publications: [[NDSS 2026]](https://arxiv.org/abs/2512.19297)
 * Xuanxi Chen (2024.09-)
 * Bangzheng Fu (2025.09-)
 * Jiajing xia (2025.09-)
