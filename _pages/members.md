@@ -65,5 +65,5 @@ nav: true
    * Publications: [[ASE 2024]](https://sites.google.com/view/toxic-prompt-detector)
 * Xi Yang (Master Student), now in industry (Shanghai WingSemitech Co., Ltd.).
 * Feiyue Chen (Master Student), now in industry (ByteDance).
-* Hongru Wei (Master Student), now in industry (PetroChina Southwest Oil & Gas Field Company).
+* Hongru Wei (Master Student), now in industry (CNPC).
  
